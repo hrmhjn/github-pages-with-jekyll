@@ -1,4 +1,4 @@
 ---
 title: "Welcome to my blog"
-date: 11-01-2022
+date: 2022-01-11
 ---
